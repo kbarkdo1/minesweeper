@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MineSweeper</string>
+    <string name="titleText">Welcome to Minesweeper</string>
+    <string name="bottomTextPlay">Click to reveal squares. Flag suspected bombs, but don\'t mis-flag!</string>
+    <string name="bottomTextWin">You Win!</string>
+    <string name="bottomTextLose">You Lose :(</string>
+    <string name="reset">Reset</string>
+    <string name="reveal">Reveal</string>
+    <string name="flag">Flag</string>
+</resources>
